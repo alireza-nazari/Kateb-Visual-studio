@@ -1,0 +1,9 @@
+D:\Visual Studio 2017\Kateb Visual Studio\01. 02. Calcurator\01. 02. Calcurator\bin\Debug\_01._02.Calcurator.exe.config
+D:\Visual Studio 2017\Kateb Visual Studio\01. 02. Calcurator\01. 02. Calcurator\bin\Debug\_01._02.Calcurator.exe
+D:\Visual Studio 2017\Kateb Visual Studio\01. 02. Calcurator\01. 02. Calcurator\bin\Debug\_01._02.Calcurator.pdb
+D:\Visual Studio 2017\Kateb Visual Studio\01. 02. Calcurator\01. 02. Calcurator\obj\Debug\01. 02. Calcurator.csprojAssemblyReference.cache
+D:\Visual Studio 2017\Kateb Visual Studio\01. 02. Calcurator\01. 02. Calcurator\obj\Debug\_01._02.Calcurator.Properties.Resources.resources
+D:\Visual Studio 2017\Kateb Visual Studio\01. 02. Calcurator\01. 02. Calcurator\obj\Debug\01. 02. Calcurator.csproj.GenerateResource.cache
+D:\Visual Studio 2017\Kateb Visual Studio\01. 02. Calcurator\01. 02. Calcurator\obj\Debug\01. 02. Calcurator.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Kateb Visual Studio\01. 02. Calcurator\01. 02. Calcurator\obj\Debug\_01._02.Calcurator.exe
+D:\Visual Studio 2017\Kateb Visual Studio\01. 02. Calcurator\01. 02. Calcurator\obj\Debug\_01._02.Calcurator.pdb

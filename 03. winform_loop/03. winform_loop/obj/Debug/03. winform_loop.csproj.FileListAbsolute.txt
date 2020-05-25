@@ -1,0 +1,10 @@
+D:\Visual Studio 2017\Kateb Visual Studio\03. winform_loop\03. winform_loop\obj\Debug\03. winform_loop.csprojAssemblyReference.cache
+D:\Visual Studio 2017\Kateb Visual Studio\03. winform_loop\03. winform_loop\obj\Debug\_03.winform_loop.Properties.Resources.resources
+D:\Visual Studio 2017\Kateb Visual Studio\03. winform_loop\03. winform_loop\obj\Debug\03. winform_loop.csproj.GenerateResource.cache
+D:\Visual Studio 2017\Kateb Visual Studio\03. winform_loop\03. winform_loop\obj\Debug\03. winform_loop.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Kateb Visual Studio\03. winform_loop\03. winform_loop\bin\Debug\_03.winform_loop.exe.config
+D:\Visual Studio 2017\Kateb Visual Studio\03. winform_loop\03. winform_loop\bin\Debug\_03.winform_loop.exe
+D:\Visual Studio 2017\Kateb Visual Studio\03. winform_loop\03. winform_loop\bin\Debug\_03.winform_loop.pdb
+D:\Visual Studio 2017\Kateb Visual Studio\03. winform_loop\03. winform_loop\obj\Debug\_03.winform_loop.exe
+D:\Visual Studio 2017\Kateb Visual Studio\03. winform_loop\03. winform_loop\obj\Debug\_03.winform_loop.pdb
+D:\Visual Studio 2017\Kateb Visual Studio\03. winform_loop\03. winform_loop\obj\Debug\winform_loop.mainForm.resources
