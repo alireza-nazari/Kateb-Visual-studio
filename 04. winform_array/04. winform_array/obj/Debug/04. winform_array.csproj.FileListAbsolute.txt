@@ -1,0 +1,10 @@
+D:\Visual Studio 2017\Kateb Visual Studio\04. winform_array\04. winform_array\obj\Debug\04. winform_array.csprojAssemblyReference.cache
+D:\Visual Studio 2017\Kateb Visual Studio\04. winform_array\04. winform_array\obj\Debug\_04.winform_array.Properties.Resources.resources
+D:\Visual Studio 2017\Kateb Visual Studio\04. winform_array\04. winform_array\obj\Debug\04. winform_array.csproj.GenerateResource.cache
+D:\Visual Studio 2017\Kateb Visual Studio\04. winform_array\04. winform_array\obj\Debug\04. winform_array.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Kateb Visual Studio\04. winform_array\04. winform_array\bin\Debug\_04.winform_array.exe.config
+D:\Visual Studio 2017\Kateb Visual Studio\04. winform_array\04. winform_array\bin\Debug\_04.winform_array.exe
+D:\Visual Studio 2017\Kateb Visual Studio\04. winform_array\04. winform_array\bin\Debug\_04.winform_array.pdb
+D:\Visual Studio 2017\Kateb Visual Studio\04. winform_array\04. winform_array\obj\Debug\_04.winform_array.exe
+D:\Visual Studio 2017\Kateb Visual Studio\04. winform_array\04. winform_array\obj\Debug\_04.winform_array.pdb
+D:\Visual Studio 2017\Kateb Visual Studio\04. winform_array\04. winform_array\obj\Debug\_04.winform_array.mainFrom.resources

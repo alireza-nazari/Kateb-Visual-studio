@@ -16,7 +16,7 @@ namespace _04.winform_array
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new mainFrom());
         }
     }
 }

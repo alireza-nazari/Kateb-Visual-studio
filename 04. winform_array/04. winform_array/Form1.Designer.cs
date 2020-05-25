@@ -1,6 +1,6 @@
 ﻿namespace _04.winform_array
 {
-    partial class main
+    partial class mainFrom
     {
         /// <summary>
         /// Required designer variable.
@@ -30,7 +30,7 @@
         {
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.name = new System.Windows.Forms.TextBox();
+            this.nameOf = new System.Windows.Forms.TextBox();
             this.lists = new System.Windows.Forms.ListBox();
             this.add = new System.Windows.Forms.Button();
             this.show = new System.Windows.Forms.Button();
@@ -55,12 +55,12 @@
             this.label2.TabIndex = 1;
             this.label2.Text = "Name";
             // 
-            // name
+            // nameOf
             // 
-            this.name.Location = new System.Drawing.Point(73, 70);
-            this.name.Name = "name";
-            this.name.Size = new System.Drawing.Size(320, 20);
-            this.name.TabIndex = 2;
+            this.nameOf.Location = new System.Drawing.Point(73, 70);
+            this.nameOf.Name = "nameOf";
+            this.nameOf.Size = new System.Drawing.Size(320, 20);
+            this.nameOf.TabIndex = 2;
             // 
             // lists
             // 
@@ -90,7 +90,7 @@
             this.show.UseVisualStyleBackColor = true;
             this.show.Click += new System.EventHandler(this.show_Click);
             // 
-            // main
+            // mainFrom
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -98,10 +98,10 @@
             this.Controls.Add(this.show);
             this.Controls.Add(this.add);
             this.Controls.Add(this.lists);
-            this.Controls.Add(this.name);
+            this.Controls.Add(this.nameOf);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Name = "main";
+            this.Name = "mainFrom";
             this.Text = "Alireza Nazari";
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -112,7 +112,7 @@
 
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.TextBox name;
+        private System.Windows.Forms.TextBox nameOf;
         private System.Windows.Forms.ListBox lists;
         private System.Windows.Forms.Button add;
         private System.Windows.Forms.Button show;

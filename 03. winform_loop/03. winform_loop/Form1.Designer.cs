@@ -44,18 +44,18 @@
             this.start_value.AutoSize = true;
             this.start_value.Location = new System.Drawing.Point(23, 33);
             this.start_value.Name = "start_value";
-            this.start_value.Size = new System.Drawing.Size(59, 13);
+            this.start_value.Size = new System.Drawing.Size(71, 13);
             this.start_value.TabIndex = 0;
-            this.start_value.Text = "Start Value";
+            this.start_value.Text = "Acount Value";
             // 
             // rate
             // 
             this.rate.AutoSize = true;
             this.rate.Location = new System.Drawing.Point(23, 73);
             this.rate.Name = "rate";
-            this.rate.Size = new System.Drawing.Size(30, 13);
+            this.rate.Size = new System.Drawing.Size(68, 13);
             this.rate.TabIndex = 1;
-            this.rate.Text = "Rate";
+            this.rate.Text = "Interest Rate";
             // 
             // years
             // 
@@ -71,36 +71,36 @@
             this.money.AutoSize = true;
             this.money.Location = new System.Drawing.Point(23, 224);
             this.money.Name = "money";
-            this.money.Size = new System.Drawing.Size(39, 13);
+            this.money.Size = new System.Drawing.Size(77, 13);
             this.money.TabIndex = 3;
-            this.money.Text = "Money";
+            this.money.Text = "Interest Money";
             // 
             // int1
             // 
-            this.int1.Location = new System.Drawing.Point(88, 33);
+            this.int1.Location = new System.Drawing.Point(118, 33);
             this.int1.Name = "int1";
-            this.int1.Size = new System.Drawing.Size(176, 20);
+            this.int1.Size = new System.Drawing.Size(146, 20);
             this.int1.TabIndex = 4;
             // 
             // int2
             // 
-            this.int2.Location = new System.Drawing.Point(88, 70);
+            this.int2.Location = new System.Drawing.Point(118, 70);
             this.int2.Name = "int2";
-            this.int2.Size = new System.Drawing.Size(176, 20);
+            this.int2.Size = new System.Drawing.Size(146, 20);
             this.int2.TabIndex = 5;
             // 
             // int3
             // 
-            this.int3.Location = new System.Drawing.Point(88, 113);
+            this.int3.Location = new System.Drawing.Point(118, 113);
             this.int3.Name = "int3";
-            this.int3.Size = new System.Drawing.Size(176, 20);
+            this.int3.Size = new System.Drawing.Size(146, 20);
             this.int3.TabIndex = 6;
             // 
             // int4
             // 
-            this.int4.Location = new System.Drawing.Point(88, 221);
+            this.int4.Location = new System.Drawing.Point(118, 221);
             this.int4.Name = "int4";
-            this.int4.Size = new System.Drawing.Size(176, 20);
+            this.int4.Size = new System.Drawing.Size(146, 20);
             this.int4.TabIndex = 7;
             // 
             // button1

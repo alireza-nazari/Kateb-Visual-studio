@@ -10,29 +10,52 @@ using System.Windows.Forms;
 
 namespace _04.winform_array
 {
-    public partial class main : Form
+    
+    public partial class mainFrom : Form
     {
-        string[][] jagged_arr = new string[2][];
-        int flag = 0;
-        public main()
+        
+        
+        public mainFrom()
         {
             InitializeComponent();
         }
 
         private void add_Click(object sender, EventArgs e)
         {
-            jagged_arr[flag][0] = name.Text.ToString();  
-            flag += 1;
+            Globals.jagged_arr[1][Globals.flag] = nameOf.Text;
+            Console.WriteLine(Globals.jagged_arr[1][Globals.flag]);
+            Console.WriteLine(Globals.flag);
+            Console.WriteLine(nameOf.Text);
+            if (Globals.jagged_arr[1][Globals.flag].Length > Globals.flag)
+            {
+                Globals.flag += 1;
+            }
+            
         }
-
+        
         private void show_Click(object sender, EventArgs e)
         {
-            for (int i = 0; i <= jagged_arr.Length; i++)
+
+            foreach (string name in Globals.jagged_arr[1])
             {
-                lists.Items.Add(jagged_arr[i][0]);
+                if (name != null || name != String.Empty)
+                {
+                    Console.WriteLine(name);
+                    lists.Items.Add(name);
+                }
+                else {
+                    Console.WriteLine("NULL");
+                }
+                
             }
         }
 
         
+    }
+
+    public static class Globals
+    {
+        public static int flag = 0;
+        public static string[][] jagged_arr = new String[3][];
     }
 }
