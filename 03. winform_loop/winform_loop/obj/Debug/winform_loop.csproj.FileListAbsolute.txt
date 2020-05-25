@@ -1,0 +1,10 @@
+C:\Users\my\source\repos\winform_loop\winform_loop\bin\Debug\winform_loop.exe.config
+C:\Users\my\source\repos\winform_loop\winform_loop\bin\Debug\winform_loop.exe
+C:\Users\my\source\repos\winform_loop\winform_loop\bin\Debug\winform_loop.pdb
+C:\Users\my\source\repos\winform_loop\winform_loop\obj\Debug\winform_loop.csprojAssemblyReference.cache
+C:\Users\my\source\repos\winform_loop\winform_loop\obj\Debug\winform_loop.main.resources
+C:\Users\my\source\repos\winform_loop\winform_loop\obj\Debug\winform_loop.Properties.Resources.resources
+C:\Users\my\source\repos\winform_loop\winform_loop\obj\Debug\winform_loop.csproj.GenerateResource.cache
+C:\Users\my\source\repos\winform_loop\winform_loop\obj\Debug\winform_loop.csproj.CoreCompileInputs.cache
+C:\Users\my\source\repos\winform_loop\winform_loop\obj\Debug\winform_loop.exe
+C:\Users\my\source\repos\winform_loop\winform_loop\obj\Debug\winform_loop.pdb
